@@ -7,6 +7,6 @@ Given a string, output all its permutations
 - output: abc, acb, bac, bca, cab, cba
 
 ## Performance
-- (O(1)) memory (constant
+- O(1)) memory (constant
 - O(N!) compute
 
