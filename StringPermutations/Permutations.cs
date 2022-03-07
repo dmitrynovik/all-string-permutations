@@ -14,7 +14,6 @@ namespace StringPermutations
             if ((start + 1) >= s.Length)
                 yield break;
 
-
             for (var i = start; i < s.Length; ++i)
             {
                 for (int j = i + 1; j < s.Length; ++j)
